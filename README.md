@@ -20,7 +20,9 @@ G2_sample2.vcf,Group2
 ```
 ## Output
 After running you get two types of output:
+
 1)SBS of mutational signatures of each sample
+
 2)Plots:
   + BAR_PLOT.jpeg → Stacked barplot of mutational signatures
   + HEAT_MAP.jpeg → Signature heatmap
