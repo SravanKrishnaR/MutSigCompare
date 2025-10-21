@@ -1,4 +1,4 @@
-**MutSigCompare**
+## MutSigCompare
 * It is lightweight Python tool for analyzing and comparing mutational signatures between two samples or groups.
 * Requires only the input vcf files between the samples to be compared through a csv file, which then parses SBS mutations, extract trinucleotide contexts, and visualize the relative contributions of COSMIC mutational signatures through stacked barplots, heatmaps, and PCA.
 * Useful for group-wise comparison support (e.g., tumor vs normal, treated vs untreated)
