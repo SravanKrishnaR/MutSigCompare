@@ -109,4 +109,3 @@ if __name__=="__main__":
 
     cosmic_nnlss(cosmic_data, matrix_rel)
 
-#RUN with  python trinucleotide_parsing.py --sample samples.csv --ref testdata/reference.fna
